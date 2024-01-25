@@ -1,0 +1,85 @@
+{
+  "strarray": [
+    {
+      "name": "sex_array",
+      "value": [
+        {
+          "value": "male"
+        },
+        {
+          "value": "female"
+        }
+      ]
+    },
+    {
+      "name": "hobbies_data",
+      "value": [
+        {
+          "value": "Soccer"
+        },
+        {
+          "value": "Badminton"
+        },
+        {
+          "value": "Travelling"
+        },
+        {
+          "value": "Playing games"
+        },
+        {
+          "value": "Reading books"
+        }
+      ]
+    },
+    {
+      "name": "home_component_titles",
+      "value": [
+        {
+          "value": "常用组件与布局"
+        },
+        {
+          "value": "目标管理"
+        },
+        {
+          "value": "简易视频播放器"
+        },
+        {
+          "value": "构建多种样式弹窗"
+        },
+        {
+          "value": "自定义下拉刷新动画"
+        },
+        {
+          "value": "Web组件抽奖案例"
+        },
+        {
+          "value": "新闻数据加载"
+        },
+        {
+          "value": "保存字体大小设置"
+        },
+        {
+          "value": "进度条通知"
+        },
+        {
+          "value": "后台闹钟提醒"
+        },
+        {
+          "value": "启动页"
+        },
+        {
+          "value": "登录页"
+        },
+        {
+          "value": "关于我们"
+        },
+        {
+          "value": "分类列表"
+        },
+        {
+          "value": "名片"
+        }
+      ]
+    }
+  ]
+}

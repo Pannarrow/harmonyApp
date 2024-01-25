@@ -1,0 +1,1017 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "This module template implements Splash Screen functions."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Hello World"
+    },
+    {
+      "name": "ability_desc",
+      "value": "This ability loads SplashScreenPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "Splash Screen Ability"
+    },
+    {
+      "name": "copyright",
+      "value": "Copyright @2021-2027 xx Company"
+    },
+    {
+      "name": "skip",
+      "value": "Skip %d"
+    },
+    {
+      "name": "copyright_title",
+      "value": "Video"
+    },
+    {
+      "name": "list_item_title",
+      "value": "Single list"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "Right text"
+    },
+    {
+      "name": "page_title",
+      "value": "Title"
+    },
+    {
+      "name": "sub_title",
+      "value": "Subtitle%d"
+    },
+    {
+      "name": "detail_default_title",
+      "value": "Default title"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "username",
+      "value": "Phone number/Email address/Username"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "register",
+      "value": "Register"
+    },
+    {
+      "name": "jump_mine_page_text",
+      "value": "Click to go to my page"
+    },
+    {
+      "name": "register_success_text",
+      "value": "Register success"
+    },
+    {
+      "name": "problem_encountered",
+      "value": "Problem encountered"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "Privacy statement"
+    },
+    {
+      "name": "mine_page_title",
+      "value": "My"
+    },
+    {
+      "name": "user_nickname",
+      "value": "Han Meimei"
+    },
+    {
+      "name": "component_list_item_text",
+      "value": "Title%d"
+    },
+    {
+      "name": "service_hotline",
+      "value": "Service hotline"
+    },
+    {
+      "name": "email",
+      "value": "Official email address"
+    },
+    {
+      "name": "hotline_number",
+      "value": "12xxx"
+    },
+    {
+      "name": "email_address",
+      "value": "xxx@yyy.com"
+    },
+    {
+      "name": "contact_customer_service",
+      "value": "Contact customer service"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "title_name",
+      "value": "About"
+    },
+    {
+      "name": "icon_name",
+      "value": "About Ability Application"
+    },
+    {
+      "name": "version_label",
+      "value": "Version: %s"
+    },
+    {
+      "name": "about_us",
+      "value": "About us"
+    },
+    {
+      "name": "home_page",
+      "value": "Official website"
+    },
+    {
+      "name": "home_weblink",
+      "value": "www.xxx.com"
+    },
+    {
+      "name": "public_account",
+      "value": "Public account"
+    },
+    {
+      "name": "account_name",
+      "value": "hooer"
+    },
+    {
+      "name": "user_protocol",
+      "value": "XXX user protocol"
+    },
+    {
+      "name": "tech_support",
+      "value": "Technical support: xxxxxx"
+    },
+    {
+      "name": "and",
+      "value": " and "
+    },
+    {
+      "name": "detail_item_title",
+      "value": "Title"
+    },
+    {
+      "name": "arrow_title",
+      "value": "Right text"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "tab_title",
+      "value": "Tab"
+    },
+    {
+      "name": "user_name",
+      "value": "User name"
+    },
+    {
+      "name": "list_item_sub_title",
+      "value": "Auxiliary text"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "list_item_text",
+      "value": "Category %d"
+    },
+    {
+      "name": "tab_text",
+      "value": "Tab"
+    },
+    {
+      "name": "detail_list_item_text",
+      "value": "Subtype"
+    },
+    {
+      "name": "grid_item_text",
+      "value": "Subclass"
+    },
+    {
+      "name": "category_sub_title",
+      "value": "Sub title"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTSComponents"
+    },
+    {
+      "name": "login_page",
+      "value": "Login page"
+    },
+    {
+      "name": "login_more",
+      "value": "Log in to your account to use more services"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "register_account",
+      "value": "Registering an Account"
+    },
+    {
+      "name": "forgot_password",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "message_login",
+      "value": "SMS verification code login"
+    },
+    {
+      "name": "other_login_method",
+      "value": "Other login methods"
+    },
+    {
+      "name": "vertical_line",
+      "value": "  |  "
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "The input cannot be empty."
+    },
+    {
+      "name": "login_success",
+      "value": "The login is successful."
+    },
+    {
+      "name": "my_love",
+      "value": "My favorite"
+    },
+    {
+      "name": "history_record",
+      "value": "History"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "my_goal",
+      "value": "My goal"
+    },
+    {
+      "name": "group",
+      "value": "Group"
+    },
+    {
+      "name": "favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "recycle_bin",
+      "value": "Recycle Bin"
+    },
+    {
+      "name": "rankings",
+      "value": "Rankings"
+    },
+    {
+      "name": "new_product_debut",
+      "value": "New product debut"
+    },
+    {
+      "name": "big_name_flash",
+      "value": "Big name flash"
+    },
+    {
+      "name": "find_good",
+      "value": "Find good things"
+    },
+    {
+      "name": "xiamen_station",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "more_big_names",
+      "value": "More Big Names"
+    },
+    {
+      "name": "push_notifications",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "data_management",
+      "value": "Data Management"
+    },
+    {
+      "name": "menu_settings",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "clear_cache",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "mainPage_tabTitles_home",
+      "value": "Home"
+    },
+    {
+      "name": "mainPage_tabTitles_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "mainPage_top",
+      "value": "Rankings"
+    },
+    {
+      "name": "mainPage_text_top",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "mainPage_new",
+      "value": "New product debut"
+    },
+    {
+      "name": "mainPage_text_new",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "mainPage_brand",
+      "value": "Big name flash"
+    },
+    {
+      "name": "mainPage_text_brand",
+      "value": "More Big Names"
+    },
+    {
+      "name": "mainPage_found",
+      "value": "Find good things"
+    },
+    {
+      "name": "mainPage_text_found",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "setting_account_name",
+      "value": "Mr. Lee"
+    },
+    {
+      "name": "setting_account_email",
+      "value": "2000000@shenhua.cc"
+    },
+    {
+      "name": "setting_list_news",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "setting_list_data",
+      "value": "Data Management"
+    },
+    {
+      "name": "setting_list_menu",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "setting_list_about",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "setting_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "setting_list_privacy",
+      "value": "Privacy Agreement"
+    },
+    {
+      "name": "setting_button",
+      "value": "Logout"
+    },
+    {
+      "name": "home_list",
+      "value": "List"
+    },
+    {
+      "name": "setting_toggle",
+      "value": "switch"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "add_task",
+      "value": "Add Sub-Targets"
+    },
+    {
+      "name": "target_name",
+      "value": "Q1 Operation Targets"
+    },
+    {
+      "name": "target_info",
+      "value": "Increase the number of users and user activeness."
+    },
+    {
+      "name": "overall_progress",
+      "value": "Overall Progress"
+    },
+    {
+      "name": "add_task_dialog",
+      "value": "Add Sub-Targets"
+    },
+    {
+      "name": "latest_updateTime",
+      "value": "Update Time: "
+    },
+    {
+      "name": "sub_goals",
+      "value": "Sub-goals"
+    },
+    {
+      "name": "cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirm_button",
+      "value": "OK"
+    },
+    {
+      "name": "delete_button",
+      "value": "Delete"
+    },
+    {
+      "name": "edit_button",
+      "value": "Edit"
+    },
+    {
+      "name": "select_all_button",
+      "value": "Select All"
+    },
+    {
+      "name": "cannot_input_empty",
+      "value": "The task name cannot be null."
+    },
+    {
+      "name": "input_target_name",
+      "value": "Please enter a sub-target name."
+    },
+
+
+
+    {
+      "name": "back",
+      "value": "video"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "text_input_hint",
+      "value": "Nickname"
+    },
+    {
+      "name": "text_input_signature",
+      "value": "Personalized signature"
+    },
+    {
+      "name": "title_birthdate",
+      "value": "Date of birth"
+    },
+    {
+      "name": "title_sex",
+      "value": "Sex"
+    },
+    {
+      "name": "default_sex",
+      "value": "Male"
+    },
+    {
+      "name": "title_hobbies",
+      "value": "Hobbies (multiple choices)"
+    },
+    {
+      "name": "alert_dialog_message",
+      "value": "The current data is not saved. Are you sure you want to leave?"
+    },
+    {
+      "name": "definite_button",
+      "value": "Definite"
+    },
+    {
+      "name": "text_personal_title",
+      "value": "Personal information"
+    },
+    {
+      "name": "text_title_hobbies",
+      "value": "Hobbies"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "refresh_default_header_hint",
+      "value": "Pull Down Refresh"
+    },
+    {
+      "name": "refresh_default_header_load",
+      "value": "Release Refresh"
+    },
+    {
+      "name": "refresh_default_header_loading",
+      "value": "Refreshing..."
+    },
+    {
+      "name": "file_index_title",
+      "value": "Cloud space"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "promptsLocal",
+      "value": "Local H5 applet"
+    },
+    {
+      "name": "promptsCloud",
+      "value": "Cloud H5 applet"
+    },
+    {
+      "name": "loadLocalH5",
+      "value": "Load the local H5"
+    },
+    {
+      "name": "loadCloudH5",
+      "value": "Load cloud H5"
+    },
+    {
+      "name": "textValue",
+      "value": "These are web components"
+    },
+    {
+      "name": "local",
+      "value": "(Local)"
+    },
+    {
+      "name": "online",
+      "value": "(online)"
+    },
+    {
+      "name": "btnValue",
+      "value": "Click on the raffle"
+    },
+    {
+      "name": "prompts",
+      "value": "Sweepstakes App"
+    },
+    {
+      "name": "web_alert_dialog_button_value",
+      "value": "Confirm"
+    },
+    {
+      "name": "web_width",
+      "value": "93.3%"
+    },
+    {
+      "name": "internet_err",
+      "value": "Failed to load the network."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "pull_up_load_text",
+      "value": "Loading in..."
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "The drop-down refresh"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "Loosen the refresh"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "Is refreshing"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "Refresh the success"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "Refresh the failure"
+    },
+    {
+      "name": "http_error_message",
+      "value": "Network request failed, please try later!"
+    },
+    {
+      "name": "page_none_msg",
+      "value": "Network loading failure"
+    },
+    {
+      "name": "prompt_message",
+      "value": "No more data"
+    },
+    {
+      "name": "dependency_reason",
+      "value": "Used to initiate network data requests."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "set_chat_content1",
+      "value": "Did you know that you can now clock in a variety of health goals for healthy living?"
+    },
+    {
+      "name": "set_chat_content2",
+      "value": "Yes, I added exercise and diet related goals."
+    },
+    {
+      "name": "set_chat_content3",
+      "value": "That's great. How do you feel?"
+    },
+    {
+      "name": "set_chat_content4",
+      "value": "Life is getting better and better, you have a try!"
+    },
+    {
+      "name": "set_size_small",
+      "value": "Small"
+    },
+    {
+      "name": "set_size_normal",
+      "value": "Normal"
+    },
+    {
+      "name": "set_size_large",
+      "value": "Large"
+    },
+    {
+      "name": "set_size_extra_large",
+      "value": "Extra large"
+    },
+    {
+      "name": "set_size_huge",
+      "value": "Huge"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    },
+    {
+      "name": "set_title",
+      "value": "Font size settings"
+    },
+    {
+      "name": "set_font_size",
+      "value": "Text size"
+    },
+    {
+      "name": "set_char_a",
+      "value": "A"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "button_download",
+      "value": "DownLoad"
+    },
+    {
+      "name": "button_pause",
+      "value": "Pause"
+    },
+    {
+      "name": "button_resume",
+      "value": "Resume"
+    },
+    {
+      "name": "button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "button_finish",
+      "value": "Open"
+    },
+    {
+      "name": "notification_title_download",
+      "value": "Downloading"
+    },
+    {
+      "name": "notification_title_pause",
+      "value": "Download paused"
+    },
+    {
+      "name": "notification_title_finish",
+      "value": "Download completed"
+    },
+    {
+      "name": "invalid_button_toast",
+      "value": "The function is not implemented"
+    },
+    {
+      "name": "invalid_progress_toast",
+      "value": "The progress bar template is not supported"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "AlarmClock"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ring_duration",
+      "value": "闹铃时长"
+    },
+    {
+      "name": "ring_interval",
+      "value": "再响间隔"
+    },
+    {
+      "name": "ring_interval_content",
+      "value": "响铃间隔时间（分钟）"
+    },
+    {
+      "name": "ring_times_content",
+      "value": "重复响铃次数"
+    },
+    {
+      "name": "alarm_name",
+      "value": "闹钟名"
+    },
+    {
+      "name": "repeat_name",
+      "value": "重复"
+    },
+    {
+      "name": "new_alarm",
+      "value": "新建闹钟"
+    },
+    {
+      "name": "update_alarm",
+      "value": "修改闹钟"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "reason",
+      "value": "通知"
+    }
+  ]
+}

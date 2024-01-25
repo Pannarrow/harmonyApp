@@ -1,0 +1,646 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "copyright_text",
+      "value": "#99182431"
+    },
+    {
+      "name": "title",
+      "value": "#182431"
+    },
+    {
+      "name": "rect_area_background",
+      "value": "#4D000000"
+    },
+    {
+      "name": "rect_stroke",
+      "value": "#99FFFFFF"
+    },
+
+
+
+    {
+      "name": "search_placeholder",
+      "value": "#99182431"
+    },
+    {
+      "name": "page_title",
+      "value": "#FF000000"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "#99182431"
+    },
+    {
+      "name": "list_item_title",
+      "value": "#FF182431"
+    },
+    {
+      "name": "theme_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "list_divider",
+      "value": "#0D000000"
+    },
+
+
+
+
+
+
+
+
+    {
+      "name": "privacy_statement_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "problem_encountered_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "register_font_clickable",
+      "value": "#007DFF"
+    },
+    {
+      "name": "text_input_place_holder",
+      "value": "#99182431"
+    },
+    {
+      "name": "login_btn_normal",
+      "value": "#66007DFF"
+    },
+    {
+      "name": "login_btn_enabled",
+      "value": "#007DFF"
+    },
+    {
+      "name": "login_font_normal",
+      "value": "#66FFFFFF"
+    },
+    {
+      "name": "register_btn_clickable",
+      "value": "#0D000000"
+    },
+    {
+      "name": "divider",
+      "value": "#33000000"
+    },
+    {
+      "name": "login_input_text_background",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "login_page_background",
+      "value": "#f1f3f5"
+    },
+    {
+      "name": "register_success_text_font",
+      "value": "#e6000000"
+    },
+    {
+      "name": "jump_text_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "item_divider",
+      "value": "#0D000000"
+    },
+    {
+      "name": "detail_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "text",
+      "value": "#182431"
+    },
+    {
+      "name": "text_opacity",
+      "value": "#99182431"
+    },
+    {
+      "name": "input_border_color",
+      "value": "#33000000"
+    },
+
+
+
+
+
+
+    {
+      "name": "text_link",
+      "value": "#FF007DFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#F1F3F5"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "common_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "tab_text_normal",
+      "value": "#66000000"
+    },
+    {
+      "name": "tab_text_activated",
+      "value": "#007DFF"
+    },
+    {
+      "name": "item_title",
+      "value": "#FF182431"
+    },
+    {
+      "name": "item_sub_title",
+      "value": "#99182431"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "switch_on",
+      "value": "#007DFF"
+    },
+    {
+      "name": "detail_list_title",
+      "value": "#182431"
+    },
+    {
+      "name": "detail_list_summary",
+      "value": "#99182431"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "grid_text_background",
+      "value": "#0C000000"
+    },
+    {
+      "name": "list_text_normal",
+      "value": "#182431"
+    },
+    {
+      "name": "sub_text",
+      "value": "#99000000"
+    },
+    {
+      "name": "list_item_text",
+      "value": "#FF182431"
+    },
+    {
+      "name": "category_background",
+      "value": "#F1F3F5"
+    },
+
+
+
+
+
+
+
+
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "title_text_color",
+      "value": "#182431"
+    },
+    {
+      "name": "login_more_text_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "placeholder_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "line_color",
+      "value": "#33182431"
+    },
+    {
+      "name": "login_button_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "login_blue_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "other_login_text_color",
+      "value": "#838D97"
+    },
+    {
+      "name": "loading_color",
+      "value": "#182431"
+    },
+    {
+      "name": "mainPage_selected",
+      "value": "#1698CE"
+    },
+    {
+      "name": "mainPage_normal",
+      "value": "#6B6B6B"
+    },
+    {
+      "name": "mainPage_backgroundColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "home_grid_fontColor",
+      "value": "#99182431"
+    },
+    {
+      "name": "setting_button_backgroundColor",
+      "value": "#E5E8EA"
+    },
+    {
+      "name": "setting_button_fontColor",
+      "value": "#FA2A2D"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "index_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "main_blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "main_red",
+      "value": "#E84026"
+    },
+    {
+      "name": "custom_button_color",
+      "value": "#E8E7EB"
+    },
+    {
+      "name": "edit_blue",
+      "value": "#1A007DFF"
+    },
+    {
+      "name": "button_background",
+      "value": "#0D182431"
+    },
+    {
+      "name": "title_black_color",
+      "value": "#182431"
+    },
+    {
+      "name": "dialog_progress",
+      "value": "#4D4D4D"
+    },
+    {
+      "name": "input_background",
+      "value": "#0D182431"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "column_background_color",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "custom_color",
+      "value": "#182431"
+    },
+    {
+      "name": "custom_blank_color",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "place_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#0D182431"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "navy_blue",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "text_value_font_color",
+      "value": "#182431"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "color_index",
+      "value": "#1E67DC"
+    },
+    {
+      "name": "fontColor_text",
+      "value": "#000000"
+    },
+    {
+      "name": "fontColor_text1",
+      "value": "#8A8A8A"
+    },
+    {
+      "name": "fontColor_text2",
+      "value": "#FF989898"
+    },
+    {
+      "name": "fontColor_text3",
+      "value": "#182431"
+    },
+    {
+      "name": "listColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "dividerColor",
+      "value": "#E2E2E2"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "setting_item_divider",
+      "value": "#0d182431"
+    },
+    {
+      "name": "set_chat_right_bg",
+      "value": "#D7E9F3"
+    },
+    {
+      "name": "set_chat_left_bg",
+      "value": "#FFFFFF"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "index_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "button_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "cancel_button_color",
+      "value": "#0D000000"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "grey_light",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "grey_divider",
+      "value": "#182431"
+    },
+    {
+      "name": "blue_light",
+      "value": "#007DFF"
+    },
+    {
+      "name": "grey_with_opacity",
+      "value": "#0C182431"
+    },
+    {
+      "name": "red_light",
+      "value": "#FA2A2D"
+    },
+    {
+      "name": "trans_parent",
+      "value": "#00000000"
+    },
+    {
+      "name": "green_light",
+      "value": "#17A98E"
+    }
+  ]
+}

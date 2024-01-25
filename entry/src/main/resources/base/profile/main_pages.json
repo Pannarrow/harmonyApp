@@ -1,0 +1,27 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/components/ComponentsPage",
+    "pages/targetmanagement/TargetManagementPage",
+    "pages/video/SimpleVideoPage",
+    "pages/dialog/MultipleDialogPage",
+    "pages/refresh/AnimateRefreshPage",
+    "pages/web/WebComponentPage",
+    "pages/news/NewsDataPage",
+    "pages/storage/SetFontSizePage",
+    "pages/notification/DownloadNotificationPage",
+    "pages/clock/AlarmClockPage",
+    "pages/clock/DetailIndex",
+    "pages/splash/SplashScreenPage",
+    "pages/login/LoginPage",
+    "pages/login/MinePage",
+    "pages/login/RegistrationSuccessPage",
+    "pages/login/CustomerServicePage",
+    "pages/login/PrivacyPage",
+    "pages/about/AboutPage",
+    "pages/about/AgreementPage",
+    "pages/about/DetailPage",
+    "pages/business/BusinessCardPage",
+    "pages/category/CategoryPage"
+  ]
+}

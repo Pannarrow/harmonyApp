@@ -1,0 +1,1048 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "启动页，登录，列表"
+    },
+    {
+      "name": "main_page_content",
+      "value": "你好，世界"
+    },
+    {
+      "name": "ability_desc",
+      "value": "该Ability加载显示主Page的内容"
+    },
+    {
+      "name": "ability_label",
+      "value": "Splash Screen Ability"
+    },
+    {
+      "name": "copyright",
+      "value": "版权所有 @2021-2027 xx公司"
+    },
+    {
+      "name": "skip",
+      "value": "跳过 %d"
+    },
+    {
+      "name": "copyright_title",
+      "value": "视频"
+    },
+    {
+      "name": "list_item_title",
+      "value": "单个列表"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "右侧文本"
+    },
+    {
+      "name": "page_title",
+      "value": "标题"
+    },
+    {
+      "name": "sub_title",
+      "value": "子标题%d"
+    },
+    {
+      "name": "detail_default_title",
+      "value": "默认标题"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "title",
+      "value": "标题"
+    },
+    {
+      "name": "username",
+      "value": "手机号/邮箱地址/账号名"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "register",
+      "value": "注册"
+    },
+    {
+      "name": "register_success_text",
+      "value": "注册成功"
+    },
+    {
+      "name": "jump_mine_page_text",
+      "value": "点击跳转到我的页面"
+    },
+    {
+      "name": "problem_encountered",
+      "value": "遇见问题"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "隐私声明"
+    },
+    {
+      "name": "mine_page_title",
+      "value": "我的"
+    },
+    {
+      "name": "user_nickname",
+      "value": "韩梅梅"
+    },
+    {
+      "name": "component_list_item_text",
+      "value": "标题%d"
+    },
+    {
+      "name": "service_hotline",
+      "value": "客服热线"
+    },
+    {
+      "name": "email",
+      "value": "官方邮箱"
+    },
+    {
+      "name": "hotline_number",
+      "value": "12xxx"
+    },
+    {
+      "name": "email_address",
+      "value": "xxx@yyy.com"
+    },
+    {
+      "name": "contact_customer_service",
+      "value": "联系客服"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "title_name",
+      "value": "关于"
+    },
+    {
+      "name": "icon_name",
+      "value": "About Ability 应用"
+    },
+    {
+      "name": "version_label",
+      "value": "版本: %s"
+    },
+    {
+      "name": "about_us",
+      "value": "关于我们"
+    },
+    {
+      "name": "home_page",
+      "value": "官方网站"
+    },
+    {
+      "name": "home_weblink",
+      "value": "www.xxx.com"
+    },
+    {
+      "name": "public_account",
+      "value": "公众号"
+    },
+    {
+      "name": "account_name",
+      "value": "hooer"
+    },
+    {
+      "name": "user_protocol",
+      "value": "XXX用户协议"
+    },
+    {
+      "name": "tech_support",
+      "value": "技术支持: xxxxxx"
+    },
+    {
+      "name": "and",
+      "value": " 和 "
+    },
+    {
+      "name": "detail_item_title",
+      "value": "标题"
+    },
+    {
+      "name": "arrow_title",
+      "value": "右侧文本"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "tab_title",
+      "value": "页签"
+    },
+    {
+      "name": "user_name",
+      "value": "用户名称"
+    },
+    {
+      "name": "list_item_sub_title",
+      "value": "辅助文本"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "list_item_text",
+      "value": "分类%d"
+    },
+    {
+      "name": "tab_text",
+      "value": "页签"
+    },
+    {
+      "name": "detail_list_item_text",
+      "value": "子标题"
+    },
+    {
+      "name": "grid_item_text",
+      "value": "子类"
+    },
+    {
+      "name": "category_sub_title",
+      "value": "副标题"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTSComponents"
+    },
+    {
+      "name": "login_page",
+      "value": "登录界面"
+    },
+    {
+      "name": "login_more",
+      "value": "登录帐号以使用更多服务"
+    },
+    {
+      "name": "account",
+      "value": "帐号"
+    },
+    {
+      "name": "register_account",
+      "value": "注册帐号"
+    },
+    {
+      "name": "forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "message_login",
+      "value": "短信验证码登录"
+    },
+    {
+      "name": "other_login_method",
+      "value": "其他登录方式"
+    },
+    {
+      "name": "vertical_line",
+      "value": "  |  "
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "输入不能为空"
+    },
+    {
+      "name": "login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "my_love",
+      "value": "我的最爱"
+    },
+    {
+      "name": "history_record",
+      "value": "历史记录"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "my_goal",
+      "value": "我的目标"
+    },
+    {
+      "name": "group",
+      "value": "圈子"
+    },
+    {
+      "name": "favorites",
+      "value": "收藏"
+    },
+    {
+      "name": "recycle_bin",
+      "value": "回收站"
+    },
+    {
+      "name": "rankings",
+      "value": "排行榜"
+    },
+    {
+      "name": "new_product_debut",
+      "value": "新品首发"
+    },
+    {
+      "name": "big_name_flash",
+      "value": "大牌闪购"
+    },
+    {
+      "name": "find_good",
+      "value": "发现好物"
+    },
+    {
+      "name": "xiamen_station",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "more_big_names",
+      "value": "更多大牌"
+    },
+    {
+      "name": "push_notifications",
+      "value": "推送通知"
+    },
+    {
+      "name": "data_management",
+      "value": "数据管理"
+    },
+    {
+      "name": "menu_settings",
+      "value": "菜单设置"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "clear_cache",
+      "value": "清除缓存"
+    },
+    {
+      "name": "mainPage_tabTitles_home",
+      "value": "首页"
+    },
+    {
+      "name": "mainPage_tabTitles_mine",
+      "value": "我的"
+    },
+    {
+      "name": "mainPage_top",
+      "value": "排行榜"
+    },
+    {
+      "name": "mainPage_text_top",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "mainPage_new",
+      "value": "新品首发"
+    },
+    {
+      "name": "mainPage_text_new",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "mainPage_brand",
+      "value": "大牌闪购"
+    },
+    {
+      "name": "mainPage_text_brand",
+      "value": "更多大牌"
+    },
+    {
+      "name": "mainPage_found",
+      "value": "发现好物"
+    },
+    {
+      "name": "mainPage_text_found",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "setting_account_name",
+      "value": "李先生"
+    },
+    {
+      "name": "setting_account_email",
+      "value": "2000000@shenhua.cc"
+    },
+    {
+      "name": "setting_list_news",
+      "value": "推送通知"
+    },
+    {
+      "name": "setting_list_data",
+      "value": "数据管理"
+    },
+    {
+      "name": "setting_list_menu",
+      "value": "菜单设置"
+    },
+    {
+      "name": "setting_list_about",
+      "value": "关于"
+    },
+    {
+      "name": "setting_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "setting_list_privacy",
+      "value": "隐私协议"
+    },
+    {
+      "name": "setting_button",
+      "value": "退出登录"
+    },
+    {
+      "name": "home_list",
+      "value": "列表"
+    },
+    {
+      "name": "setting_toggle",
+      "value": "开关"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "add_task",
+      "value": "添加子目标"
+    },
+    {
+      "name": "target_name",
+      "value": "第一季度运营目标"
+    },
+    {
+      "name": "target_info",
+      "value": "实现用户量与用户活跃度提升。"
+    },
+    {
+      "name": "overall_progress",
+      "value": "整体进度"
+    },
+    {
+      "name": "add_task_dialog",
+      "value": "添加子目标"
+    },
+    {
+      "name": "latest_updateTime",
+      "value": "更新时间: "
+    },
+    {
+      "name": "sub_goals",
+      "value": "子目标"
+    },
+    {
+      "name": "cancel_button",
+      "value": "取消"
+    },
+    {
+      "name": "confirm_button",
+      "value": "确定"
+    },
+    {
+      "name": "delete_button",
+      "value": "删除"
+    },
+    {
+      "name": "edit_button",
+      "value": "编辑"
+    },
+    {
+      "name": "select_all_button",
+      "value": "全选"
+    },
+    {
+      "name": "cannot_input_empty",
+      "value": "任务名称不能为空！"
+    },
+    {
+      "name": "input_target_name",
+      "value": "请输入子目标名称"
+    },
+
+
+    {
+      "name": "back",
+      "value": "视频"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "text_input_hint",
+      "value": "昵称"
+    },
+    {
+      "name": "text_input_signature",
+      "value": "个性签名"
+    },
+    {
+      "name": "title_birthdate",
+      "value": "出生日期"
+    },
+    {
+      "name": "title_sex",
+      "value": "性别"
+    },
+    {
+      "name": "default_sex",
+      "value": "男"
+    },
+    {
+      "name": "title_hobbies",
+      "value": "兴趣爱好（多选）"
+    },
+    {
+      "name": "alert_dialog_message",
+      "value": "当前数据未保存，是否离开？"
+    },
+    {
+      "name": "definite_button",
+      "value": "确定"
+    },
+    {
+      "name": "text_personal_title",
+      "value": "个人信息"
+    },
+    {
+      "name": "text_title_hobbies",
+      "value": "兴趣爱好"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "refresh_default_header_hint",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "refresh_default_header_load",
+      "value": "松开刷新"
+    },
+    {
+      "name": "refresh_default_header_loading",
+      "value": "正在刷新..."
+    },
+    {
+      "name": "file_index_title",
+      "value": "云空间"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "promptsLocal",
+      "value": "本地H5小程序"
+    },
+    {
+      "name": "promptsCloud",
+      "value": "云端H5小程序"
+    },
+    {
+      "name": "loadLocalH5",
+      "value": "加载本地H5"
+    },
+    {
+      "name": "loadCloudH5",
+      "value": "加载云端H5"
+    },
+    {
+      "name": "textValue",
+      "value": "以上为Web组件"
+    },
+    {
+      "name": "local",
+      "value": "(本地)"
+    },
+    {
+      "name": "online",
+      "value": "(在线)"
+    },
+    {
+      "name": "btnValue",
+      "value": "点击抽奖"
+    },
+    {
+      "name": "prompts",
+      "value": "抽奖应用"
+    },
+    {
+      "name": "web_alert_dialog_button_value",
+      "value": "确定"
+    },
+    {
+      "name": "web_width",
+      "value": "93.3%"
+    },
+    {
+      "name": "internet_err",
+      "value": "网络加载失败！"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "pull_up_load_text",
+      "value": "加载中..."
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "松开刷新"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "刷新成功"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "刷新失败"
+    },
+    {
+      "name": "http_error_message",
+      "value": "网络请求失败，请稍后尝试！"
+    },
+    {
+      "name": "page_none_msg",
+      "value": "网络加载失败"
+    },
+    {
+      "name": "prompt_message",
+      "value": "没有更多数据了"
+    },
+    {
+      "name": "dependency_reason",
+      "value": "用于发起网络数据请求"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "set_chat_content1",
+      "value": "你知道现在可以在健康生活添加各种健康目标打卡吗？"
+    },
+    {
+      "name": "set_chat_content2",
+      "value": "知道，我添加了运动和饮食相关的目标。"
+    },
+    {
+      "name": "set_chat_content3",
+      "value": "太好了，感觉怎么样？"
+    },
+    {
+      "name": "set_chat_content4",
+      "value": "生活状态越来越好，你也一起试试吧！"
+    },
+    {
+      "name": "set_size_small",
+      "value": "小"
+    },
+    {
+      "name": "set_size_normal",
+      "value": "标准"
+    },
+    {
+      "name": "set_size_large",
+      "value": "大"
+    },
+    {
+      "name": "set_size_extra_large",
+      "value": "超大"
+    },
+    {
+      "name": "set_size_huge",
+      "value": "特大"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    },
+    {
+      "name": "set_title",
+      "value": "字体大小设置"
+    },
+    {
+      "name": "set_font_size",
+      "value": "Text size"
+    },
+    {
+      "name": "set_char_a",
+      "value": "A"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "button_download",
+      "value": "下载"
+    },
+    {
+      "name": "button_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "button_resume",
+      "value": "继续"
+    },
+    {
+      "name": "button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "button_finish",
+      "value": "打开"
+    },
+    {
+      "name": "notification_title_download",
+      "value": "下载中"
+    },
+    {
+      "name": "notification_title_pause",
+      "value": "已暂停下载"
+    },
+    {
+      "name": "notification_title_finish",
+      "value": "下载完成"
+    },
+    {
+      "name": "invalid_button_toast",
+      "value": "功能暂未实现"
+    },
+    {
+      "name": "invalid_progress_toast",
+      "value": "不支持进度条模板"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "AlarmClock"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ring_duration",
+      "value": "闹铃时长"
+    },
+    {
+      "name": "ring_interval",
+      "value": "再响间隔"
+    },
+    {
+      "name": "ring_interval_content",
+      "value": "响铃间隔时间（分钟）"
+    },
+    {
+      "name": "ring_times_content",
+      "value": "重复响铃次数"
+    },
+    {
+      "name": "alarm_name",
+      "value": "闹钟名"
+    },
+    {
+      "name": "repeat_name",
+      "value": "重复"
+    },
+    {
+      "name": "new_alarm",
+      "value": "新建闹钟"
+    },
+    {
+      "name": "update_alarm",
+      "value": "修改闹钟"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "reason",
+      "value": "通知"
+    }
+  ]
+}
